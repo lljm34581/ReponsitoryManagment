@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ReponsitoryManagment/ReponsitoryManagment.iml" filepath="$PROJECT_DIR$/ReponsitoryManagment/ReponsitoryManagment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Springboot-vue3-Reponsitory.iml" filepath="$PROJECT_DIR$/.idea/Springboot-vue3-Reponsitory.iml" />
+    </modules>
+  </component>
+</project>
